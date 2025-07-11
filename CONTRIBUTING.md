@@ -1,12 +1,15 @@
-Thank you for your interest in contributing to the Emotional Forests Model! This is an open-source conceptual framework, and we welcome contributions that help refine, validate, and expand upon the core idea.
+# Contributing to the Emotional Forests Model
 
-How You Can Contribute
+Thank you for your interest in contributing! This is an open-source conceptual framework, and we welcome contributions that help refine, validate, and expand upon the core idea.
 
-As this is a conceptual project, contributions are primarily in the form of ideas, analysis, and discussion. We welcome contributions in the following areas:
+## How to Contribute
 
-Suggesting New Features: Propose new data points (Branches or Weather/Soil) that could be added to the model.
+The best way to contribute is by opening an "Issue" on this GitHub repository.
+1.  Go to the "Issues" tab.
+2.  Click "New Issue."
+3.  Provide a clear title and a detailed description of your idea, suggestion, or question.
 
-Refining the Framework: Offer suggestions to improve the theoretical model, the validation plan, or the mitigation strategies.
+All contributions are governed by our Code of Conduct. We look forward to your ideas!.
 
 Identifying Potential Datasets: If you are aware of publicly available clinical trial datasets that would be suitable for a retrospective validation study, please share them.
 
